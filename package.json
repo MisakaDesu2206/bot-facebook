@@ -6,6 +6,7 @@
   "scripts": {
     "postinstall": "link-module-alias",
     "install": "npm run update",
+    "update": "npm update",
     "start": "node bot.js"
   },
   "repository": {

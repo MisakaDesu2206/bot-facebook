@@ -8,7 +8,6 @@
     "update": "npm update",
     "install": "npm install",
     "start": "node start.js"
-    
   },
   "keywords": [
     "messenger",
@@ -18,7 +17,7 @@
     "nodejs",
     "sqlite3"
   ],
-  "author": "Roxtigger2003",
+  "author": "tea",
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
@@ -27,7 +26,7 @@
     "clui": "^0.3.6",
     "crypto-js": "^3.3.0",
     "fca-unofficial": "^1.1.8",
-    "facebook-chat-api": "",
-    "fs": "^0.0.2",
-    }
+    "facebook-chat-api": "^1.7.0",
+    "fs": "^0.0.2"
+  }
 }

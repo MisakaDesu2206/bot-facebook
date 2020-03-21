@@ -30,9 +30,11 @@
     "crypto-js": "^3.3.0",
     "fca-unofficial": "^1.1.8",
     "facebook-chat-api": "^1.7.0",
+    "sqlite3": "^4.1.1",
+    "request-promise": "^4.2.5",
     "fs": "^0.0.2"
   },
   "devDependencies": {
-     "sshpk": "1.16.1"
+     "sshpk": "^1.16.1"
   }
 }

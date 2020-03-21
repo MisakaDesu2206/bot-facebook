@@ -4,9 +4,6 @@
   "description": "a messenger bot chat.",
   "main": "start.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "update": "npm update",
-    "install": "npm install",
     "start": "node start.js"
   },
   "engines": {

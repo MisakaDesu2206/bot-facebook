@@ -9,6 +9,9 @@
     "install": "npm run update",
     "start": "node start.js"
   },
+  "engines": {
+    "node": "12.16.x"
+  },
   "keywords": [
     "messenger",
     "bot",

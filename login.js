@@ -14,7 +14,7 @@ const option = {
    //* cách lấy userAgent: F12-> tab console gõ 'navigator.userAgent' Link: https://imgur.com/oQ5hUkH
 }
 
-const obj = {email: "vanhuy69@icloud.com", password: "Simpledepzai3"};
+const obj = {email: "vanhuy69@icloud.com", password: ""};
 login(obj, option, (err, api) => {
     if(err) {
         switch (err.error) {
